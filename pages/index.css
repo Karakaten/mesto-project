@@ -1,0 +1,25 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+
+/* ––––––––––––––––– PAGE ––––––––––––––––– */
+@import url(../blocks/page/page.css);
+
+
+/* ––––––––––––––––– BODY ––––––––––––––––– */
+@import url(../blocks/body/body.css);
+
+
+/* ––––––––––––––––– HEADER ––––––––––––––––– */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+
+
+/* ––––––––––––––––– HEADER ––––––––––––––––– */
+@import url(../blocks/profile/profile.css);
+@import url(../blocks/profile/__avatar/profile__avatar.css);
+@import url(../blocks/profile/__info/profile__info.css);
+@import url(../blocks/profile/__name/profile__name.css);
+@import url(../blocks/profile/__edit/profile__edit.css);
+@import url(../blocks/profile/__description/profile__description.css);
+@import url(../blocks/profile/__add/profile__add.css);
