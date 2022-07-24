@@ -3,8 +3,8 @@
     flex-direction: column;
     max-width: 358px;
     margin: 0 auto;
-    margin-top: 30px;
-    gap: 43px;
+    margin-top: 54px;
+    gap: 30px;
     border: 0;
     outline: none;
     margin-left: 36px;
@@ -15,5 +15,6 @@
         margin-left: 22px;
         line-height: 17px;
         max-width: 238px;
+        margin-top: 75px;
     }
 }

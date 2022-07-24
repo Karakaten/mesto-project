@@ -1,6 +1,6 @@
 .popup__form {
     border: 0px;
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
 .popup__form::placeholder {
@@ -10,4 +10,5 @@
     font-size: 14px;
     line-height: 17px;
     border: 0px;
+    font-weight: 500;
 }
